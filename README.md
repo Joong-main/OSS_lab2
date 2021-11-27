@@ -4,7 +4,7 @@
 
 ### lab2-0 
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
-<ul>함수를 통해 문자열 hello world를 출력한다</ul>
+<li>함수를 통해 문자열 hello world를 출력한다</li>
 
 ### lab2-1 
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-1%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
