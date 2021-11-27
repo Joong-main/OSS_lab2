@@ -24,10 +24,10 @@
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-6%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 
 ### lab2-7 
-<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
+<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-7%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 
 ### lab2-8 
-<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
+<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-8%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 
 ### lab2-9 
-<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
+<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-9%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
