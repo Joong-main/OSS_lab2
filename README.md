@@ -6,7 +6,7 @@
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 
 ### lab2-1 
-<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
+<img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-1%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 
 ### lab2-2 
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-0%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
