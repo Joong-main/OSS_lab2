@@ -17,6 +17,7 @@
 ### lab2-3 
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-3%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 <li>키(cm)와 몸무게(kg)를 입력 받은 뒤 단위를 m로 바꾼 키를 height 변수에 저장하고 n_height에 키(m)의 제곱값을 저장한다. 이후 몸무게를 키의 제곱으로 나누어 BMI를 구하고 BMI를 18.5 미만은 저제충 23 초과는 과체중 그 사이는 정상체중으로 출력하도록 한다.</li>
+
 ### lab2-4 
 <img src="https://github.com/Joong-main/OSS_lab2/blob/main/img/lab2-4%20%EC%BD%94%EB%93%9C.PNG" width="50%" height="50%">
 <li> 
